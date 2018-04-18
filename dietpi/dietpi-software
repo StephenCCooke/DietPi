@@ -8198,14 +8198,6 @@ driver=nl80211
 ssid=$(grep -m1 '^[[:blank:]]*SOFTWARE_WIFI_HOTSPOT_SSID=' /DietPi/dietpi.txt | sed 's/^.*=//')
 hw_mode=g
 channel=$(grep -m1 '^[[:blank:]]*SOFTWARE_WIFI_HOTSPOT_CHANNEL=' /DietPi/dietpi.txt | sed 's/^.*=//')
-macaddr_acl=0
-auth_algs=1
-ignore_broadcast_ssid=0
-wpa=2
-wpa_passphrase=$(grep -m1 '^[[:blank:]]*SOFTWARE_WIFI_HOTSPOT_KEY=' /DietPi/dietpi.txt | sed 's/^.*=//')
-wpa_key_mgmt=WPA-PSK
-wpa_pairwise=TKIP
-rsn_pairwise=CCMP
 _EOF_
 
 			# - Check for RTL8188C* device, use the patched driver with compiled binary: https://github.com/pritambaral/hostapd-rtl871xdrv#why
