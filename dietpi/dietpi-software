@@ -429,6 +429,7 @@ _EOF_
 			'────Advanced Networking───────────────────────────────────' #17
 			'────Home Automation───────────────────────────────────────' #18
 			'────Printing──────────────────────────────────────────────' #19
+			'────Recomended to install all─────────────────────────────' #20
 
 		)
 
@@ -512,7 +513,7 @@ _EOF_
 
 				 aSOFTWARE_WHIP_NAME[$index_current]='WiFi Hotspot'
 				 aSOFTWARE_WHIP_DESC[$index_current]='turn your device into a wifi hotspot'
-			aSOFTWARE_CATEGORY_INDEX[$index_current]=8
+			aSOFTWARE_CATEGORY_INDEX[$index_current]=20
 					  aSOFTWARE_TYPE[$index_current]=0
 			 aSOFTWARE_ONLINEDOC_URL[$index_current]='f=8&t=5&p=1207#p1207'
 			 
@@ -522,7 +523,7 @@ _EOF_
 
 				 aSOFTWARE_WHIP_NAME[$index_current]='LASP'
 				 aSOFTWARE_WHIP_DESC[$index_current]='apache2  | sqlite  | php'
-			aSOFTWARE_CATEGORY_INDEX[$index_current]=13
+			aSOFTWARE_CATEGORY_INDEX[$index_current]=20
 					  aSOFTWARE_TYPE[$index_current]=0
 			 aSOFTWARE_ONLINEDOC_URL[$index_current]='f=8&t=5&start=10#p52'
 
@@ -531,7 +532,7 @@ _EOF_
 
 				 aSOFTWARE_WHIP_NAME[$index_current]='vsFTPD'
 				 aSOFTWARE_WHIP_DESC[$index_current]='alternative ftp server'
-			aSOFTWARE_CATEGORY_INDEX[$index_current]=15
+			aSOFTWARE_CATEGORY_INDEX[$index_current]=20
 					  aSOFTWARE_TYPE[$index_current]=0
 			 aSOFTWARE_ONLINEDOC_URL[$index_current]='?f=8&t=5&p=2820#p2820'
 
@@ -540,7 +541,7 @@ _EOF_
 
 				 aSOFTWARE_WHIP_NAME[$index_current]='Node.js'
 				 aSOFTWARE_WHIP_DESC[$index_current]='javascript runtime'
-			aSOFTWARE_CATEGORY_INDEX[$index_current]=4
+			aSOFTWARE_CATEGORY_INDEX[$index_current]=20
 					  aSOFTWARE_TYPE[$index_current]=0
 		#------------------
 
