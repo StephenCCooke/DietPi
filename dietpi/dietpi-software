@@ -13378,11 +13378,8 @@ _EOF_
 
 		G_WHIP_MENU_ARRAY=(
 
-			'Help!' 'Links to online guides, docs and information'
-			'DietPi-Config' 'Feature-rich configuration tool for your device'
-			'' '─── Select Software ─────────────────────────────'
-			'Software Optimized' 'Select DietPi optimized software for installation'
-			'Software Additional' 'Select additional Linux software for installation'
+			'' '─── Select ─────────────────────────────'
+			'Game-tranet Setup' 'Select Game-tranet install options'
 			'SSH Server' ": $index_sshserver_text"
 			'File Server' ": $index_fileserver_text"
 			'Log System' ": $index_logging_text"
@@ -13410,7 +13407,7 @@ _EOF_
 
 				;;
 
-				'Software Optimized')
+				'Game-tranet Setup')
 
 					TARGETMENUID=1
 
