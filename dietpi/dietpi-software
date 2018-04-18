@@ -541,7 +541,7 @@ _EOF_
 				 aSOFTWARE_WHIP_NAME[$index_current]='Node.js'
 				 aSOFTWARE_WHIP_DESC[$index_current]='javascript runtime'
 			aSOFTWARE_CATEGORY_INDEX[$index_current]=4
-					  aSOFTWARE_TYPE[$index_current]=1
+					  aSOFTWARE_TYPE[$index_current]=0
 		#------------------
 
 		#--------------------------------------------------------------------------------
