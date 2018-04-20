@@ -537,14 +537,7 @@ _EOF_
 			 aSOFTWARE_ONLINEDOC_URL[$index_current]='?f=8&t=5&p=2820#p2820'
 
 		#------------------
-		index_current=9
-
-				 aSOFTWARE_WHIP_NAME[$index_current]='Node.js'
-				 aSOFTWARE_WHIP_DESC[$index_current]='javascript runtime'
-			aSOFTWARE_CATEGORY_INDEX[$index_current]=20
-					  aSOFTWARE_TYPE[$index_current]=0
-		#------------------
-
+		
 		#--------------------------------------------------------------------------------
 		#Logging (hidden)
 		#--------------------------------------------------------------------------------
