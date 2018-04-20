@@ -511,7 +511,7 @@ _EOF_
 		#--------------------------------------------------------------------------------
 		index_current=60
 
-				 aSOFTWARE_WHIP_NAME[$index_current]='WiFi Hotspot'
+				 aSOFTWARE_WHIP_NAME[$index_current]='Host access point daemon'
 				 aSOFTWARE_WHIP_DESC[$index_current]='turn your device into a wifi hotspot'
 			aSOFTWARE_CATEGORY_INDEX[$index_current]=20
 					  aSOFTWARE_TYPE[$index_current]=0
