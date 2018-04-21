@@ -6,4 +6,4 @@ Download (ALPHA):
 Previous releases (ALPHA):
 [Game-tranet_install_19_04_2018_b5d9eaa.zip](https://drive.google.com/file/d/1PEgvqLIX5H2BuOHausbvqbyAnqkpgz7L/view?usp=sharing)
 
-*NOTE* ALPHA releasse do not include a game at this time.
+*NOTE* ALPHA release does not include a game at this time.
